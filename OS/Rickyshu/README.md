@@ -9,3 +9,7 @@
 ### 3.3 프로세스와 스레드
 
 - https://dreamcode.tistory.com/476
+
+### 3.4 CPU 스케줄링 알고리즘
+
+- https://dreamcode.tistory.com/477
